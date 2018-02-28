@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="API_KEY">AIzaSyAV4bFXX4CacWDlLZFHuowrFZfmMQ_1FJg</string>
+    <string name="chose_tv_text">Choose a place</string>
+    <string name="choose_btn_text">Choose</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Sunset">Sunset</string>
+    <string name="tryAgain_btn">try again</string>
+    <string name="showInfo">show info</string>
+</resources>
